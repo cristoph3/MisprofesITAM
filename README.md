@@ -1,2 +1,1 @@
-# MisprofesITAM
-Análisis de calificaciones del ITAM a través de misprofes ITAM (página con comentarios de profesores del ITAM)
+El objetivo de este proyecto es ayudar a los estudiantes del ITAM a encontrar buenos profesores. El código funciona con datos de misprofesITAM, una base de página web que tiene información de opiniones de varios alumnos sobre varios profesores. Por medio del departamento del cual le interese al alumno encontrar maestro, el usuario puede encontrar el nombre de todos los maestros y después de asociarlo con un número ver cuáles son los comentarios más repetidos acorde a cada profesor.
